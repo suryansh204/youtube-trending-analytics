@@ -44,4 +44,4 @@ Data Source:
 Data from [https://chatgpt.com/c/686bbd2c-45c4-8002-bf79-fdc9cc36b38f#:~:text=Data%20from-,Kaggle,-%2D%20Trending%20YouTube%20Video]
 
 Dashboard:
-![YouTube Dashboard](./dashboard/Dashboard.png)
+![YouTube Dashboard](Dashboard/Dashboard.png)
