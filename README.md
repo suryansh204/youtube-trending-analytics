@@ -9,17 +9,6 @@ This project analyzes trending YouTube videos across different countries, identi
 
 ---
 
-## 📁 Project Structure
-├── Data/ # Raw data from Kaggle (CSV, JSON)
-├── ETL/ # Scripts to clean and prepare data
-├── notebooks/ # Jupyter notebooks for EDA and analysis
-├── SQL/ # SQLite schema + population code
-├── dashboard/ # Tableau workbook files (.twbx) or screenshots
-├── README.md
-├── requirements.txt
-
-
----
 
 ## Questions Answered
 
